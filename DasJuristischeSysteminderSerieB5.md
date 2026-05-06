@@ -1,4 +1,4 @@
-# Das Juristische System in der Serie Babylon 5 und ihrer Spin-offs.
+# Recht und Gesetz in der Serie Babylon 5 und ihrer Spin-offs.
 
 Babylon 5 wird als Bab 5 abgekürzt.
 
@@ -27,7 +27,9 @@ Anfechten der Kommandohierarchie läuft wie folgt:
 
 (1) Befehle müssen verweigert, wenn diese offensichtlich rechtwidrig sind. Dies spiel in Staffel im Bürgerkrieg der Erde eine Rolle, als Sheridan diese Regel den Präsidententreuen Kriegsschiffen zusendet.
 
-Vgl. Bundeswehr: kleine Verstöße gg. das Völkerrecht sind vom Befehlsempfänger noch hinzunehmen.
+Vgl. Bundeswehr: kleine Verstöße gg. das Völkerrecht sind vom Befehlsempfänger noch hinzunehmen. 
+
+Es gibt Kriegsrecht.
 
 - TODO: Das passiert wann on screen?
 
@@ -40,7 +42,9 @@ Schauen wir auf im Hyperspace verlorene Piloten.
 
 ## Strafrecht
 
-### Tod der Persönlichkeit, durch Telephathen durchgeführt. Danach ist man in einem nützlichen beruf quasi eine Arbeitsdrone.
+### Tod der Persönlichkeit
+
+Durch Telephathen durchgeführt. Danach ist man in einem nützlichen beruf quasi eine Arbeitsdrone.
 
 Klassische Todsstrafe vs. Psychisch-Tod
 
@@ -63,9 +67,80 @@ Companies are allowed to exploit interstellar resources, and even archeological 
 
 Edgars industries becomes the employer of the security chief of Babylon 5, as well as his ex-love as eventual CEO.
 
+- TODO Arbeitnehmerrechte und Streik in "By any means necessary"
+
 ## Reds! On! Mars!
 
 Free Mars is a movement on Mars that wears tradionally leftist colors (red). But this is a capitalist Mars, run by people like William Edgars, who happens to be the new husband of main character Garibaldi's ex-love Lise Hampton-Egars.
 
 - TODO Assination of Edgars, by whom?
 
+
+
+## Appendix
+
+### Watchlist
+
+1. “By Any Means Necessary” (Season 1)
+
+    Arbitration law
+
+    Dockworkers’ rights
+
+    Earth Alliance labor regulations
+
+    JMS commentary on real‑world labor law parallels
+
+2. “Deathwalker” (Season 1)
+
+    Interstellar law
+
+    Diplomatic immunity
+
+    League of Non‑Aligned Worlds jurisdiction
+
+3. “Points of Departure” / “Legacies”
+
+    Minbari caste law
+
+    Warrior caste vs. Religious caste authority
+
+4. “Acts of Sacrifice”
+
+    Diplomatic protocols and immunity
+
+5. “Severed Dreams”
+
+    Constitutional crisis
+
+    Martial law
+
+    Legality of secession
+
+    JMS comments on constitutional interpretation
+
+6. “Intersections in Real Time”
+
+    Due process
+
+    Interrogation law
+
+    JMS commentary on authoritarian legal systems
+
+7. “Endgame” / “Rising Star”
+
+    War crimes
+
+    Post‑civil‑war legal reconstruction
+
+    Alliance foundational law
+
+Spin‑offs
+
+The Lurker’s Guide covers Crusade and In the Beginning as well, with notes on:
+
+    Interstellar Alliance regulations
+
+    EarthGov emergency powers
+
+    Psi Corps authority (expanded in JMS comments)
