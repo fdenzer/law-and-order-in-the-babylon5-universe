@@ -4,9 +4,11 @@ Babylon 5 wird als Bab 5 abgekürzt.
 
 ## Was ist gefährlicher, ein Schattenschiff, oder die Post
 
-> "This is another level of danger. We are dealing with the post office."
+> "We went up against the entire Earth Alliance, and two carrier groups."
 > -- Michael Garibaldi
-
+> 
+> "Yeah, but this is the post office, this could get us in real trouble." 
+> -- Security Guard #2
 
 ## Militär
 
@@ -18,7 +20,7 @@ Die Raiders sind wiederkehrendes Problem in der ersten Staffel. Der "Battlewagon
 
 ### Chain of command: Pflichten
 
-> "Respektiere die Kommandokette. Das ist die Kette, mit der ich dich schlage, falls du nicht respektierst, das ich das Sagen habe."
+> "Weißt du, was die Befehlskette ist? Das ist die Kette, die ich hole und mit der ich dich prügle, bis du verstehst, wer hier das Kommando hat."
 >  -- Jayne Cobb, Firefly
 
 In Bab5 gibt es folgende Ränge, wenn man diese mit NATO-Rängen gleichsetzt.
